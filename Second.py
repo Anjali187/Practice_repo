@@ -3,4 +3,5 @@ def substraction(x,y):
     print(sub)
 substraction(5,3)
 substraction(9,8)
+print()
 This changes are made to understand new actions
